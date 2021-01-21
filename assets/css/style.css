@@ -64,6 +64,7 @@ header{
     margin: 0;
 }
 
+/*Used to remove the white space between each nav item, but we need to partially override this class with the id below '#nav li'*/
 .menu-container{
     font-size: 0;
 }
