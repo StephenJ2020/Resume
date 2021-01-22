@@ -167,7 +167,7 @@ footer{
     padding-bottom: 15px;
 }
 
-.social-links li a i{
+.social-links li a i{       /*Great example of the use of Specificity*/
     width: 32px;
     height: 32px;
     padding: 12px 0;
@@ -185,4 +185,8 @@ footer{
 
 .social-links li a i:hover{
     background: #e84610;
+}
+
+#footer-details{
+    padding: 20px;
 }
