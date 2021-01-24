@@ -15,6 +15,10 @@
     background-color: #dee7e7;
 }
 
+.bg-color-work-history{
+    background-color: #9b59b6;
+}
+
 .ui-menu-color-home{
     background-color: #e67e22;
 }
@@ -62,6 +66,7 @@ margin: 0;
     float: none;
 }
 
+.history-heading,
 .section-heading{
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -69,17 +74,6 @@ margin: 0;
     margin-bottom: 40px;
 }
 
-/************* .border-black{
-    border-top: 2px;
-    border: solid
-    border-color: black;
-}
-
-.border-red{
-    border-top: 2px;
-    border: dotted
-    border-color: red;
-} ************************/
 
 /* ---------------------------------------- Heading */
 
@@ -297,4 +291,12 @@ footer{
 
 .progress-section{
     margin: 40px 20px;
+}
+
+
+/* ---------------------------------------- Work History */
+
+.history-heading{
+    color: #fafafa;
+    margin-bottom: 50px;
 }
